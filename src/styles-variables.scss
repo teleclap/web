@@ -41,8 +41,10 @@ $button-small-height:        30px;
 // --------------------------------------------------
 $font-path:                  '/assets/fonts';
 //$font-icon-path:             '#{$font-path}/iconfont';
-$font-family:                "plumpfullblack", "Paytone One", "Roboto", -apple-system, "Helvetica Neue", sans-serif !default;
-$font-family-base:           "plumpfullblack", "Roboto", -apple-system, "Helvetica Neue", sans-serif !default;
+$font-family:                "Paytone One", "Roboto", -apple-system, "Helvetica Neue", sans-serif !default;
+$font-family-base:           "Roboto", -apple-system, "Helvetica Neue", sans-serif !default;
+$font-teleclap:              "plumpfullblack", "Roboto", -apple-system, "Helvetica Neue", sans-serif !default;
+
 $font-icon-size:             23px !default;
 $font-size-root:             62.5% !default;
 $font-size-base:             1.4rem !default; // 1.4rem == 14px

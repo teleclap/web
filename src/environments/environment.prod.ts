@@ -2,7 +2,7 @@ const packageJson = require('../../package.json');
 
 export const environment = {
   appName: 'teleclap',
-  owner: 'teleclap Media S.L.',
+  owner: 'Escenit Media S.L.',
   envName: 'PROD',
   themeName: 'default-theme',
   production: true,
