@@ -1,0 +1,27 @@
+@import "../../../styles-variables";
+
+.site-banner {
+  //background: url("../../../assets/test.jpg") 100% 100% / cover no-repeat;
+  height: 100vh;
+  //margin-top: -$main-menu-height;
+  .banner-wrapper {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    justify-content: center;
+    width: 100%;
+    .banner-inner {
+      flex: 0 0 auto;
+      width: 100%;
+      h2{
+        font-size: 250%;
+      }
+    }
+  }
+}
+.features {
+  fa-icon {
+    font-size: 5rem;
+  }
+}
